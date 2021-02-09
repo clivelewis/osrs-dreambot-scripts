@@ -1,0 +1,11 @@
+package main.utils;
+
+public enum STATE {
+	LOGIN,
+	BANKING,
+	WALKING,
+	WOODCUTTING,
+	SHORT_PAUSE,
+	LONG_BREAK,
+	WORLD_CHANGE
+}
